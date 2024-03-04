@@ -56,3 +56,6 @@ Acknowledgements
 - Built using Angular framework.
 - Calendar component powered by PrimeNG.
 - Special thanks to contributors and open-source community.
+
+  ![image](https://github.com/tejas821/dynamic-calender/assets/53937937/c6160755-df2b-4295-a59e-938db38b25b1)
+
